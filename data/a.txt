@@ -1,0 +1,1 @@
+Java is simple. Maven helps build Java projects.
